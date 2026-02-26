@@ -1,13 +1,4 @@
-# Job
 
-Good. This is smart thinking now. 👏
-
-You don’t need only “DevOps Engineer” title.
-You need **entry points into cloud ecosystem**.
-
-Here are **easier-to-grab roles related to Cloud/DevOps** 👇
-
----
 
 # 🟢 Tier 1 – Easiest Cloud-Related Entry Roles
 
